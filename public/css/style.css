@@ -5,7 +5,7 @@ body {
   width: 100%;
   min-width: 550px;
   color: #519975;
-  background: #211D1B;
+  background: #000000;
   font-family: cursor, monospace;
   overflow-x: hidden;
 }
@@ -61,7 +61,7 @@ b {
 }
 #liner::before {
   color: #519975;
-  content: "visitor@fkcodes.com:~$";
+  content: "🐰";
 }
 #liner.password::before {
   content: "Password:";
@@ -100,17 +100,17 @@ p {
   }
 }
 .index {
-  color: #DCDCCC;
+  color: #f9f905;
 }
 .color2 {
-  color: #B89076;
+  color: #53c86e;
 }
 .command {
   color: #73ABAD;
   text-shadow: 0 0 5px #73ABAD; 
 }
 .error {
-  color: #B89076;
+  color: #dc0000;
 }
 .white {
   color: #fff;
