@@ -31,7 +31,8 @@ secret = [
 
 projects = [
   "<br>",
-  "Still curating... most projects are offline, on GitHub, or confidential.",
+  'A <a style = "color: #f9f905; text-decoration: underline;" href = "https://github.com/F474L3/astro-portfolio/blob/main/src/content/projects/TextProcessorFunction.md">single function</a> that uses NLP and the NLTK package to process data for model training',
+
   "<br>"
 ];
 
@@ -40,6 +41,7 @@ help = [
   '<span class="command">whois</span>          Who is Lola?',
   '<span class="command">whoami</span>         Who are you?',
   '<span class="command">social</span>         Display social networks',
+  '<span class="command">blog</span>           Read my blog',
   '<span class="command">secret</span>         Find the password',
   '<span class="command">projects</span>       View coding projects',
   '<span class="command">history</span>        View command history',
